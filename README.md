@@ -22,31 +22,6 @@ including lists of exercises.
 * [ICPC]: International Collegiate Programming Contest, a.k.a. "World Finals"
 
 
-### [Rules]
-
-* [regional rules]
-* [NWERC rules]
-* competitor's [eligibility decision tree](https://drive.google.com/file/d/1Gt0gh7e9ubSZOr1ZpZ3liU1g0__fPzg1/view)
-* First [NWERC] then [ICPC]:
-  Teams first compete in the [NWERC].
-  Classifying teams later participate in the [ICPC].
-* [NWERC] is held yearly around November (-ish)
-* [ICPC] is held yearly around May (-ish)
-* [coach]: typically a faculty (lecturer)
-           responsible for registering the team and being the
-           point-of-contact between competitors and the contest organization
-* [ICPC programming environment]
-* [NWERC programming environment] -- [no internet access]
-* [Allowed material]:
-	- 25 physical single-sided A4 pages (Team Reference Document)
-	- [some restricted digital material]
-	- blank paper is also provided
-	- [no internet access]
-	- no other printed material allowed
-	- no electronics (except for the provided single computer)
-	- no electronic media
-
-
 ## Problems for Practicing
 
 Taken both from [Leetcode] and [SPOJ].
@@ -86,16 +61,41 @@ Taken both from [Leetcode] and [SPOJ].
 [leetcode/graph/point-mst]: https://leetcode.com/problems/min-cost-to-connect-all-points
 [leetcode/graph/star]:      https://leetcode.com/problems/find-center-of-star-graph
 
-## Past problems (2022)
+### Past problems (2022)
 
-* [2021 World Final's problems](https://icpc.global/worldfinals/problems/icpc2021.pdf)
+* [2021 ICPC World Final's problems](https://icpc.global/worldfinals/problems/icpc2021.pdf)
 * [2022 NWERC's problems](https://2022.nwerc.eu/main/problem-set.pdf)
 	- easiest problems in increasing order of difficulty: I, B, D, C, E
 
 
-## Past scoreboards (winners)
+## Past scoreboards / past winners
 
 * [NWERC 2022 scoreboard](https://2022.nwerc.eu/main/scoreboard/)
+
+
+### [Rules]
+
+* [regional rules]
+* [NWERC rules]
+* competitor's [eligibility decision tree](https://drive.google.com/file/d/1Gt0gh7e9ubSZOr1ZpZ3liU1g0__fPzg1/view)
+* First [NWERC] then [ICPC]:
+  Teams first compete in the [NWERC].
+  Classifying teams later participate in the [ICPC].
+* [NWERC] is held yearly around November (-ish)
+* [ICPC] is held yearly around May (-ish)
+* [coach]: typically a faculty (lecturer)
+           responsible for registering the team and being the
+           point-of-contact between competitors and the contest organization
+* [ICPC programming environment]
+* [NWERC programming environment] -- [no internet access]
+* [Allowed material]:
+	- 25 physical single-sided A4 pages (Team Reference Document)
+	- [some restricted digital material]
+	- blank paper is also provided
+	- [no internet access]
+	- no other printed material allowed
+	- no electronics (except for the provided single computer)
+	- no electronic media
 
 
 ## Internal use only 😉
