@@ -100,11 +100,11 @@ Taken both from [Leetcode] and [SPOJ].
 
 ## Internal use only 😉
 
-| problem                    | acc    |
-| -------------------------- | ------ |
+| problem                    | acc |
+| -------------------------- | --- |
 | [leetcode/graph/find-path] | ✔️✔️✔️ |
-| [leetcode/graph/all-paths] | ✅     |
-| [leetcode/graph/point-mst] | ✅     |
+| [leetcode/graph/all-paths] | ✔️   |
+| [leetcode/graph/point-mst] | ✔️   |
 
 
 [NWERC]: https://nwerc.eu/
