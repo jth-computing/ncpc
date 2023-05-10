@@ -80,7 +80,7 @@ Taken both from [Leetcode] and [SPOJ].
 * [NWERC 2022 scoreboard](https://2022.nwerc.eu/main/scoreboard/)
 
 
-### [Rules]
+## [Rules]
 
 * [regional rules]
 * [NWERC rules]
