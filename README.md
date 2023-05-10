@@ -46,6 +46,9 @@ Taken both from [Leetcode] and [SPOJ].
 * [leetcode/graph/find-path]
 * [leetcode/graph/all-paths]
 * [leetcode/graph/point-mst]
+* [leetcode/graph/redundant]
+* [leetcode/graph/delay-time]
+* [leetcode/graph/max-probability]
 
 [spoj/test]:    https://spoj.com/problems/TEST
 [spoj/julka]:   https://spoj.com/problems/JULKA
@@ -54,12 +57,15 @@ Taken both from [Leetcode] and [SPOJ].
 [spoj/lastdig]: https://spoj.com/problems/LASTDIG
 [spoj/onp]:     https://spoj.com/problems/ONP
 [spoj/ae00]:    https://spoj.com/problems/AE00
-[leetcode/1827]:            https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing
-[leetcode/2160]:            https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits
-[leetcode/graph/find-path]: https://leetcode.com/problems/find-if-path-exists-in-graph
-[leetcode/graph/all-paths]: https://leetcode.com/problems/all-paths-from-source-to-target
-[leetcode/graph/point-mst]: https://leetcode.com/problems/min-cost-to-connect-all-points
-[leetcode/graph/star]:      https://leetcode.com/problems/find-center-of-star-graph
+[leetcode/1827]:                  https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing
+[leetcode/2160]:                  https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits
+[leetcode/graph/find-path]:       https://leetcode.com/problems/find-if-path-exists-in-graph
+[leetcode/graph/all-paths]:       https://leetcode.com/problems/all-paths-from-source-to-target
+[leetcode/graph/point-mst]:       https://leetcode.com/problems/min-cost-to-connect-all-points
+[leetcode/graph/star]:            https://leetcode.com/problems/find-center-of-star-graph
+[leetcode/graph/redundant]:       https://leetcode.com/problems/redundant-connection
+[leetcode/graph/delay-time]:      https://leetcode.com/problems/network-delay-time
+[leetcode/graph/max-probability]: https://leetcode.com/problems/path-with-maximum-probability
 
 ### Past problems (2022)
 
@@ -101,11 +107,14 @@ Taken both from [Leetcode] and [SPOJ].
 
 ## Internal use only 😉
 
-| problem                    | acc |
-| -------------------------- | --- |
-| [leetcode/graph/find-path] | ✔️✔️✔️ |
-| [leetcode/graph/all-paths] | ✔️   |
-| [leetcode/graph/point-mst] | ✔️   |
+| problem                          | acc |
+| -------------------------------- | --- |
+| [leetcode/graph/find-path]       | ✔️✔️✔️ |
+| [leetcode/graph/all-paths]       | ✔️   |
+| [leetcode/graph/point-mst]       | ✔️   |
+| [leetcode/graph/redundant]       | ⚠️   |
+| [leetcode/graph/delay-time]      | ⚠️   |
+| [leetcode/graph/max-probability] | ⚠️   |
 
 
 [NWERC]: https://nwerc.eu/
