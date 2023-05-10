@@ -5,15 +5,33 @@ This README contains some resources
 for preparing for [NWERC] and [ICPC] at [JTH]
 including lists of exercises.
 
+
+### Competition format
+
+* teams of three students (university / college / högskola)
+* ≈ 10 [problems]
+* 5 hours
+* team with most problems solved wins
+* one computer per team
+
+
+### [Rules]
+
+* [regional rules]
+* competitor's [eligibility decision tree](https://drive.google.com/file/d/1Gt0gh7e9ubSZOr1ZpZ3liU1g0__fPzg1/view)
+* Teams first compete in the [NWERC].
+* Classifying teams later participate in the [ICPC].
+* [NWERC] is held yearly around November (-ish)
+* [ICPC] is held yearly around May (-ish)
+
+
+### Acronyms and terminology
+
 * [NWERC]: The Northwestern Europe Regional Contest
 * [ICPC]: International Collegiate Programming Contest
-* [NWERC]/[ICPC] format:
-	- teams of three students (university / college / högskola)
-	- ≈ 10 [problems]
-	- 5 hours
-	- team with most problems solved wins
-	- one computer per team
-
+* [coach]: typically a faculty (lecturer)
+           responsible for registering the team and being the
+           point-of-contact between competitors and the contest organization
 
 
 ## Past scoreboards (winners)
@@ -31,4 +49,9 @@ including lists of exercises.
 [NWERC]: https://nwerc.eu/
 [ICPC]: https://icpc.global/
 [JTH]: https://ju.se/om-oss/tekniska-hogskolan.html
+
 [problems]: https://2022.nwerc.eu/main/problem-set.pdf
+
+[rules]:          https://icpc.global/regionals/rules
+[regional rules]: https://icpc.global/regionals/rules
+[coach]:          https://icpc.global/regionals/rules
