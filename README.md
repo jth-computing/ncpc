@@ -44,13 +44,14 @@ Taken both from [Leetcode] and [SPOJ].
 
 * [leetcode/1827]
 * [leetcode/2160]
-* [spoj/test]
-* [spoj/julka]
-* [spoj/nhay]
-* [spoj/candy]
-* [spoj/lastdig]
-* [spoj/onp]
-* [spoj/ae00]
+* [leetcode/graph/star]
+* [spoj/test],
+  [spoj/julka],
+  [spoj/nhay],
+  [spoj/candy],
+  [spoj/lastdig],
+  [spoj/onp],
+  [spoj/ae00]
 
 
 ### [Graph](https://leetcode.com/tag/graph/)
@@ -71,7 +72,7 @@ Taken both from [Leetcode] and [SPOJ].
 [leetcode/graph/find-path]: https://leetcode.com/problems/find-if-path-exists-in-graph
 [leetcode/graph/all-paths]: https://leetcode.com/problems/all-paths-from-source-to-target
 [leetcode/graph/mst]:       https://leetcode.com/problems/min-cost-to-connect-all-points
-
+[leetcode/graph/star]:      https://leetcode.com/problems/find-center-of-star-graph
 
 ## Past problems (2022)
 
