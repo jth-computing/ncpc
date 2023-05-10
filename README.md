@@ -3,7 +3,7 @@ Preparing for NWERC and ICPC at JTH
 
 This README contains some resources
 for preparing for [NWERC] and [ICPC] at [JTH]
-including lists of exercises.
+including lists of [problems and exercises](#problems-for-practicing).
 
 
 ### [Competition format]
