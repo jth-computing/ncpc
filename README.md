@@ -102,7 +102,7 @@ Taken both from [Leetcode] and [SPOJ].
 
 | problem                    | acc    |
 | -------------------------- | ------ |
-| [leetcode/graph/find-path] | ✅✅✅ |
+| [leetcode/graph/find-path] | ✔️✔️✔️ |
 | [leetcode/graph/all-paths] | ✅     |
 | [leetcode/graph/point-mst] | ✅     |
 
