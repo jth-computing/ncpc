@@ -8,22 +8,24 @@ including lists of exercises.
 
 ### Competition format
 
-* teams of three students (university / college / högskola)
+* teams of 3 university students (college / högskola / ...)
 * ≈ 10 [problems]
 * 5 hours
+* [solutions in: C, Python, Java, C++ or Kotlin](https://docs.icpc.global/worldfinals-programming-environment/)
+* 1 computer per team
 * team with most problems solved wins
-* one computer per team
 
 
 ### Acronyms
 
 * [NWERC]: The Northwestern Europe Regional Contest
-* [ICPC]: International Collegiate Programming Contest
+* [ICPC]: International Collegiate Programming Contest, a.k.a. "World Finals"
 
 
 ### [Rules]
 
 * [regional rules]
+* [NWERC rules]
 * competitor's [eligibility decision tree](https://drive.google.com/file/d/1Gt0gh7e9ubSZOr1ZpZ3liU1g0__fPzg1/view)
 * First [NWERC] then [ICPC]:
   Teams first compete in the [NWERC].
@@ -33,6 +35,14 @@ including lists of exercises.
 * [coach]: typically a faculty (lecturer)
            responsible for registering the team and being the
            point-of-contact between competitors and the contest organization
+* [ICPC programming environment]
+* [NWERC programming environment] -- [no internet access]
+* [Allowed material]:
+	- 25 physical single-sided A4 pages (Team Reference Document)
+	- no other printed material allowed
+	- no electronics (except for the provided single computer)
+	- no electronic media
+	- blank paper is also provided
 
 
 ## Problems for Practicing
@@ -58,7 +68,7 @@ Taken both from [Leetcode] and [SPOJ].
 
 * [leetcode/graph/find-path]
 * [leetcode/graph/all-paths]
-* [leetcode/graph/mst]
+* [leetcode/graph/point-mst]
 
 [spoj/test]:    https://spoj.com/problems/TEST
 [spoj/julka]:   https://spoj.com/problems/JULKA
@@ -71,7 +81,7 @@ Taken both from [Leetcode] and [SPOJ].
 [leetcode/2160]:            https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits
 [leetcode/graph/find-path]: https://leetcode.com/problems/find-if-path-exists-in-graph
 [leetcode/graph/all-paths]: https://leetcode.com/problems/all-paths-from-source-to-target
-[leetcode/graph/mst]:       https://leetcode.com/problems/min-cost-to-connect-all-points
+[leetcode/graph/point-mst]: https://leetcode.com/problems/min-cost-to-connect-all-points
 [leetcode/graph/star]:      https://leetcode.com/problems/find-center-of-star-graph
 
 ## Past problems (2022)
@@ -86,6 +96,15 @@ Taken both from [Leetcode] and [SPOJ].
 * [NWERC 2022 scoreboard](https://2022.nwerc.eu/main/scoreboard/)
 
 
+## Internal use only 😉
+
+| problem                    | acc    |
+| -------------------------- | ------ |
+| [leetcode/graph/find-path] | ✅✅✅ |
+| [leetcode/grpah/all-paths] | ✅     |
+| [leetcode/graph/point-mst] | ✅     |
+
+
 [NWERC]: https://nwerc.eu/
 [ICPC]: https://icpc.global/
 [JTH]: https://ju.se/om-oss/tekniska-hogskolan.html
@@ -94,4 +113,13 @@ Taken both from [Leetcode] and [SPOJ].
 
 [rules]:          https://icpc.global/regionals/rules
 [regional rules]: https://icpc.global/regionals/rules
+[NWERC rules]:    https://2022.nwerc.eu/rules/
 [coach]:          https://icpc.global/regionals/rules
+
+[ICPC programming environment]: https://docs.icpc.global/worldfinals-programming-environment/
+[NWERC programming environment]: https://2022.nwerc.eu/systems/
+[no internet access]: https://2022.nwerc.eu/rules/#contest-materials
+[Allowed material]:   https://2022.nwerc.eu/rules/#contest-materials
+
+[Leetcode]:       https://leetcode.com/
+[SPOJ]:           https://spoj.com/
