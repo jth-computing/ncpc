@@ -10,7 +10,7 @@ including lists of exercises.
 
 * 👥 teams of 3 university students (college / högskola / ...)
 * 🚩 ≈ 10 [problems]
-* ⏱️5 hours
+* ⏱️ 5 hours
 * ⌨️ [solutions in: C, Python, Java, C++ or Kotlin](https://docs.icpc.global/worldfinals-programming-environment/)
 * 💻 1 computer per team
 * 🎈 team with most problems solved wins
