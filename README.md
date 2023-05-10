@@ -35,9 +35,42 @@ including lists of exercises.
            point-of-contact between competitors and the contest organization
 
 
-## Past scoreboards (winners)
+## Problems for Practicing
 
-* [NWERC 2022 scoreboard](https://2022.nwerc.eu/main/scoreboard/)
+Taken both from [Leetcode] and [SPOJ].
+
+
+### Basic / Simple
+
+* [leetcode/1827]
+* [leetcode/2160]
+* [spoj/test]
+* [spoj/julka]
+* [spoj/nhay]
+* [spoj/candy]
+* [spoj/lastdig]
+* [spoj/onp]
+* [spoj/ae00]
+
+
+### [Graph](https://leetcode.com/tag/graph/)
+
+* [leetcode/graph/find-path]
+* [leetcode/graph/all-paths]
+* [leetcode/graph/mst]
+
+[spoj/test]:    https://spoj.com/problems/TEST
+[spoj/julka]:   https://spoj.com/problems/JULKA
+[spoj/nhay]:    https://spoj.com/problems/NHAY
+[spoj/candy]:   https://spoj.com/problems/CANDY
+[spoj/lastdig]: https://spoj.com/problems/LASTDIG
+[spoj/onp]:     https://spoj.com/problems/ONP
+[spoj/ae00]:    https://spoj.com/problems/AE00
+[leetcode/1827]:            https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing
+[leetcode/2160]:            https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits
+[leetcode/graph/find-path]: https://leetcode.com/problems/find-if-path-exists-in-graph
+[leetcode/graph/all-paths]: https://leetcode.com/problems/all-paths-from-source-to-target
+[leetcode/graph/mst]:       https://leetcode.com/problems/min-cost-to-connect-all-points
 
 
 ## Past problems (2022)
@@ -45,6 +78,11 @@ including lists of exercises.
 * [2021 World Final's problems](https://icpc.global/worldfinals/problems/icpc2021.pdf)
 * [2022 NWERC's problems](https://2022.nwerc.eu/main/problem-set.pdf)
 	- easiest problems in increasing order of difficulty: I, B, D, C, E
+
+
+## Past scoreboards (winners)
+
+* [NWERC 2022 scoreboard](https://2022.nwerc.eu/main/scoreboard/)
 
 
 [NWERC]: https://nwerc.eu/
