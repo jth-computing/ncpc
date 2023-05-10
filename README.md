@@ -27,6 +27,11 @@ including lists of [problems and exercises](#problems-for-practicing).
 Taken both from [Leetcode] and [SPOJ].
 [CodeForces], [HackerRank] and [Online Judge] may be useful resources too.
 
+⚠️ [Leetcode] warning:
+in [NWERC]/[ICPC] solutions use standard I/O ---
+in [Leetcode] input is already parsed.
+Make sure to practice standard I/O as well ("scan" & "print").
+
 
 ### Basic / Simple
 
@@ -42,14 +47,27 @@ Taken both from [Leetcode] and [SPOJ].
   [spoj/ae00]
 
 
+### Fun
+
+* 🆕 [leetcode/roman-to-integer]
+* 🆕 [leetcode/integer-to-roman]
+* 🆕 [leetcode/wildcard-matching]
+
+
+### Dynamic Programming
+
+* 🆕 [leetcode/coin-change]
+* 🆕 [leetcode/edit-distance]
+
+
 ### [Graph](https://leetcode.com/tag/graph/)
 
 * [leetcode/graph/find-path]
 * [leetcode/graph/all-paths]
 * [leetcode/graph/point-mst]
-* [leetcode/graph/redundant]
-* [leetcode/graph/delay-time]
-* [leetcode/graph/max-probability]
+* 🆕 [leetcode/graph/redundant]
+* 🆕 [leetcode/graph/delay-time]
+* 🆕 [leetcode/graph/max-probability]
 
 [spoj/test]:    https://spoj.com/problems/TEST
 [spoj/julka]:   https://spoj.com/problems/JULKA
@@ -67,6 +85,11 @@ Taken both from [Leetcode] and [SPOJ].
 [leetcode/graph/redundant]:       https://leetcode.com/problems/redundant-connection
 [leetcode/graph/delay-time]:      https://leetcode.com/problems/network-delay-time
 [leetcode/graph/max-probability]: https://leetcode.com/problems/path-with-maximum-probability
+[leetcode/coin-change]:           https://leetcode.com/problems/coin-change
+[leetcode/edit-distance]:         https://leetcode.com/problems/edit-distance
+[leetcode/roman-to-integer]:      https://leetcode.com/problems/roman-to-integer
+[leetcode/integer-to-roman]:      https://leetcode.com/problems/integer-to-roman
+[leetcode/wildcard-matching]:     https://leetcode.com/problems/wildcard-matching
 
 ### Past problems (2022)
 
@@ -116,6 +139,7 @@ Taken both from [Leetcode] and [SPOJ].
 | [leetcode/graph/redundant]       | ⚠️   |
 | [leetcode/graph/delay-time]      | ⚠️   |
 | [leetcode/graph/max-probability] | ⚠️   |
+| [leetcode/coin-change]           | ⚠️   |
 
 
 ## Gallery
