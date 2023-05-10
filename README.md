@@ -6,7 +6,7 @@ for preparing for [NWERC] and [ICPC] at [JTH]
 including lists of exercises.
 
 
-### Competition format
+### [Competition format]
 
 * 👥 teams of 3 university students (college / högskola / ...)
 * 🚩 ≈ 10 [problems]
@@ -25,6 +25,7 @@ including lists of exercises.
 ## Problems for Practicing
 
 Taken both from [Leetcode] and [SPOJ].
+[CodeForces], [HackerRank] and [Online Judge] may be useful resources too.
 
 
 ### Basic / Simple
@@ -117,6 +118,19 @@ Taken both from [Leetcode] and [SPOJ].
 | [leetcode/graph/max-probability] | ⚠️   |
 
 
+## Gallery
+
+[![ICPC logo](https://upload.wikimedia.org/wikipedia/en/1/1d/ICPC_International_Collegiate_Programming_Contest_logo%2C_Aug_2018.png)](https://icpc.global)
+
+[![NWERC logo](https://2022.nwerc.eu/nwerc-website.svg)](https://2022.nwerc.eu/)
+
+![Photo of the 2009 ICPC world finals](https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg)
+
+![Photo of the 2019 ICPC world finals](https://live.staticflickr.com/7884/32596056617_5dc85ee500_b.jpg)
+
+![Photo of the ???? ICPC world finals](https://miro.medium.com/v2/resize:fit:720/format:webp/1*mWjv-mIg4gGw7vhj-uCyRw.jpeg)
+
+
 [NWERC]: https://nwerc.eu/
 [ICPC]: https://icpc.global/
 [JTH]: https://ju.se/om-oss/tekniska-hogskolan.html
@@ -137,3 +151,8 @@ Taken both from [Leetcode] and [SPOJ].
 
 [Leetcode]:       https://leetcode.com/
 [SPOJ]:           https://spoj.com/
+[HackerRank]:     https://hackerrank.com/
+[CodeForces]:     https://codeforces.com/
+[Online Judge]:   https://onlinejudge.org/
+
+[Competition format]: https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg
