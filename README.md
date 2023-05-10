@@ -82,11 +82,9 @@ Taken both from [Leetcode] and [SPOJ].
   Teams first compete in the [NWERC].
   Classifying teams later participate in the [ICPC].
 * [NWERC] is held yearly around November (-ish)
-* [ICPC] is held yearly around May (-ish)
 * [coach]: typically a faculty (lecturer)
            responsible for registering the team and being the
            point-of-contact between competitors and the contest organization
-* [ICPC programming environment]
 * [NWERC programming environment] -- [no internet access]
 * [Allowed material]:
 	- 25 physical single-sided A4 pages (Team Reference Document)
@@ -96,6 +94,9 @@ Taken both from [Leetcode] and [SPOJ].
 	- no other printed material allowed
 	- no electronics (except for the provided single computer)
 	- no electronic media
+* [ICPC world finals rules]
+	- [ICPC] is held yearly around May (-ish)
+	- [world finals programming environment]
 
 
 ## Internal use only 😉
@@ -115,10 +116,11 @@ Taken both from [Leetcode] and [SPOJ].
 
 [rules]:          https://icpc.global/regionals/rules
 [regional rules]: https://icpc.global/regionals/rules
+[ICPC world finals rules]: https://icpc.global/worldfinals/rules
 [NWERC rules]:    https://2022.nwerc.eu/rules/
 [coach]:          https://icpc.global/regionals/rules
 
-[ICPC programming environment]: https://docs.icpc.global/worldfinals-programming-environment/
+[world finals programming environment]: https://docs.icpc.global/worldfinals-programming-environment/
 [NWERC programming environment]: https://2022.nwerc.eu/systems/
 [no internet access]: https://2022.nwerc.eu/rules/#contest-materials
 [Allowed material]:   https://2022.nwerc.eu/rules/#contest-materials
