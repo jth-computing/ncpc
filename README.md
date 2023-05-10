@@ -101,7 +101,7 @@ Taken both from [Leetcode] and [SPOJ].
 | problem                    | acc    |
 | -------------------------- | ------ |
 | [leetcode/graph/find-path] | ✅✅✅ |
-| [leetcode/grpah/all-paths] | ✅     |
+| [leetcode/graph/all-paths] | ✅     |
 | [leetcode/graph/point-mst] | ✅     |
 
 
