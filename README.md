@@ -8,17 +8,17 @@ including lists of exercises.
 
 ### Competition format
 
-* teams of 3 university students (college / högskola / ...)
-* ≈ 10 [problems]
-* 5 hours
-* [solutions in: C, Python, Java, C++ or Kotlin](https://docs.icpc.global/worldfinals-programming-environment/)
-* 1 computer per team
-* team with most problems solved wins
+* 👥 teams of 3 university students (college / högskola / ...)
+* 🚩 ≈ 10 [problems]
+* ⏱️5 hours
+* ⌨️ [solutions in: C, Python, Java, C++ or Kotlin](https://docs.icpc.global/worldfinals-programming-environment/)
+* 💻 1 computer per team
+* 🎈 team with most problems solved wins
 
 
 ### Acronyms
 
-* [NWERC]: The Northwestern Europe Regional Contest
+* [NWERC]: The Northwestern Europe Regional Contest, a.k.a. "regional"
 * [ICPC]: International Collegiate Programming Contest, a.k.a. "World Finals"
 
 
