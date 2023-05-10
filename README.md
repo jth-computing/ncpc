@@ -39,6 +39,7 @@ including lists of exercises.
 * [NWERC programming environment] -- [no internet access]
 * [Allowed material]:
 	- 25 physical single-sided A4 pages (Team Reference Document)
+	- [some restricted digital material]
 	- no other printed material allowed
 	- no electronics (except for the provided single computer)
 	- no electronic media
@@ -120,6 +121,7 @@ Taken both from [Leetcode] and [SPOJ].
 [NWERC programming environment]: https://2022.nwerc.eu/systems/
 [no internet access]: https://2022.nwerc.eu/rules/#contest-materials
 [Allowed material]:   https://2022.nwerc.eu/rules/#contest-materials
+[some-restricted-digital-material]: https://2022.nwerc.eu/systems#documentation--specification--reference-material
 
 [Leetcode]:       https://leetcode.com/
 [SPOJ]:           https://spoj.com/
