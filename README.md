@@ -15,20 +15,21 @@ including lists of exercises.
 * one computer per team
 
 
+### Acronyms
+
+* [NWERC]: The Northwestern Europe Regional Contest
+* [ICPC]: International Collegiate Programming Contest
+
+
 ### [Rules]
 
 * [regional rules]
 * competitor's [eligibility decision tree](https://drive.google.com/file/d/1Gt0gh7e9ubSZOr1ZpZ3liU1g0__fPzg1/view)
-* Teams first compete in the [NWERC].
-* Classifying teams later participate in the [ICPC].
+* First [NWERC] then [ICPC]:
+  Teams first compete in the [NWERC].
+  Classifying teams later participate in the [ICPC].
 * [NWERC] is held yearly around November (-ish)
 * [ICPC] is held yearly around May (-ish)
-
-
-### Acronyms and terminology
-
-* [NWERC]: The Northwestern Europe Regional Contest
-* [ICPC]: International Collegiate Programming Contest
 * [coach]: typically a faculty (lecturer)
            responsible for registering the team and being the
            point-of-contact between competitors and the contest organization
