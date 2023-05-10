@@ -140,6 +140,10 @@ Make sure to practice standard I/O as well ("scan" & "print").
 | [leetcode/graph/delay-time]      | ⚠️   |
 | [leetcode/graph/max-probability] | ⚠️   |
 | [leetcode/coin-change]           | ⚠️   |
+| [leetcode/edit-distance]         | ⚠️   |
+| [leetcode/roman-to-integer]      | ⚠️   |
+| [leetcode/integer-to-roman]      | ⚠️   |
+| [leetcode/wildcard-matching]     | ⚠️   |
 
 
 ## Gallery
