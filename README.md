@@ -134,7 +134,7 @@ Make sure to practice standard I/O as well ("scan" & "print").
 | problem                          | acc |
 | -------------------------------- | --- |
 | [leetcode/graph/find-path]       | ✔️✔️✔️ |
-| [leetcode/graph/all-paths]       | ✔️   |
+| [leetcode/graph/all-paths]       | ✔️✔️  |
 | [leetcode/graph/point-mst]       | ✔️   |
 | [leetcode/graph/redundant]       | ⚠️   |
 | [leetcode/graph/delay-time]      | ⚠️   |
