@@ -34,7 +34,22 @@ Saturday, October 7th 2023
 
 ## Problems for Practicing
 
-This section lists a few problems for practicing
+The best problems for practicing leading up to the competition
+are the
+[problems from NCPC 2022](https://ncpc22.kattis.com/contests/ncpc22/problems)
+(last year).
+Here are the easiest 5 in order of difficulty:
+
+- [C -     Coffee Cup Combo](https://ncpc22.kattis.com/contests/ncpc22/problems/coffeecupcombo)
+- [D -        Disc District](https://ncpc22.kattis.com/contests/ncpc22/problems/discdistrict)
+- [H -         Highest Hill](https://ncpc22.kattis.com/contests/ncpc22/problems/highesthill)
+- [A -          Ace Arbiter](https://ncpc22.kattis.com/contests/ncpc22/problems/acearbiter)
+- [G - Graduation Guarantee](https://ncpc22.kattis.com/contests/ncpc22/problems/graduationguarantee)
+
+They are [available for practice at kattis.com](https://ncpc22.kattis.com/contests/ncpc22/problems)
+
+
+Below are some other problems for practicing
 taken both from [Leetcode] and [SPOJ].
 [CodeForces], [HackerRank] and [Online Judge] may be useful resources too.
 
