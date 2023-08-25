@@ -18,11 +18,9 @@ including lists of [problems and exercises](#problems-for-practicing).
 
 #### Date and nearest location (NCPC)
 
-Saturday, October 7th 2023
-
-11:00 -- 16:00 CEST (UTC+2)
-
-@ Linköpings Universitet
+* Saturday, October 7th 2023
+* 11:00 -- 16:00 CEST (UTC+2)
+* @ Linköpings Universitet
 
 
 ## Problems for Practicing
