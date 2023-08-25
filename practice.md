@@ -119,3 +119,9 @@ Make sure to practice standard I/O as well ("scan" & "print").
 | [leetcode/roman-to-integer]      | ⚠️   |
 | [leetcode/integer-to-roman]      | ⚠️   |
 | [leetcode/wildcard-matching]     | ⚠️   |
+
+[Leetcode]:       https://leetcode.com/
+[SPOJ]:           https://spoj.com/
+[HackerRank]:     https://hackerrank.com/
+[CodeForces]:     https://codeforces.com/
+[Online Judge]:   https://onlinejudge.org/

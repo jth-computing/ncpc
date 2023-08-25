@@ -33,33 +33,18 @@ Saturday, October 7th 2023
 | 2.    | [NWERC] | Northwestern Europe Regional Contest         | "regional"     | November (-ish) |
 | 3.    | [ICPC]  | International Collegiate Programming Contest | "World Finals" | May (-ish)      |
 
-* [NCPC rules]
+* [NCPC sub-regional rules]
 * [regional rules]
 * [NWERC rules]
 * [ICPC world finals rules]
 * competitor's [eligibility decision tree](https://drive.google.com/file/d/1Gt0gh7e9ubSZOr1ZpZ3liU1g0__fPzg1/view)
-* First NCPC, second [NWERC], finalyl [ICPC]:
+* First [NCPC], second [NWERC], finalyl [ICPC]:
   Teams first compete in the [NCPC].
   Classifying teams later compete in the [NWERC].
   Classifying teams later compete in the [ICPC].
 * [coach]: typically a faculty (lecturer)
            responsible for registering the team and being the
            point-of-contact between competitors and the contest organization
-
-
-### Further info on NWERC
-
-* [NWERC programming environment] -- [no internet access]
-* [Allowed material @ NWERC]:
-	- 25 physical single-sided A4 pages (Team Reference Document)
-	- [some restricted digital material]
-	- blank paper is also provided
-	- [no internet access]
-	- no other printed material allowed
-	- no electronics (except for the provided single computer)
-	- no electronic media
-	- [ICPC] is held yearly around May (-ish)
-	- [world finals programming environment]
 
 
 ### Traveling
@@ -97,17 +82,5 @@ giving us 20m to get set.
 [NCPC rules]:     https://nordic.icpc.io/ncpc2023/compete#rules
 [NWERC rules]:    https://2022.nwerc.eu/rules/
 [coach]:          https://icpc.global/regionals/rules
-
-[world finals programming environment]: https://docs.icpc.global/worldfinals-programming-environment/
-[NWERC programming environment]: https://2022.nwerc.eu/systems/
-[no internet access]:       https://2022.nwerc.eu/rules/#contest-materials
-[Allowed material @ NWERC]: https://2022.nwerc.eu/rules/#contest-materials
-[some restricted digital material]: https://2022.nwerc.eu/systems#documentation--specification--reference-material
-
-[Leetcode]:       https://leetcode.com/
-[SPOJ]:           https://spoj.com/
-[HackerRank]:     https://hackerrank.com/
-[CodeForces]:     https://codeforces.com/
-[Online Judge]:   https://onlinejudge.org/
 
 [Competition format]: https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg
