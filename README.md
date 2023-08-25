@@ -25,17 +25,16 @@ Saturday, October 7th 2023
 @ Linköpings Universitet
 
 
-## [Rules]
+## Rules
 
-| Stage | Acronym | Name                                         | a.k.a.         | Date            |
-| ----- | ------- | -------------------------------------------- | -------------- | --------------- |
-| 1.    | [NCPC]  | Nordic Collegiate Programming Contest        | "sub-regional" | October (-ish)  |
-| 2.    | [NWERC] | Northwestern Europe Regional Contest         | "regional"     | November (-ish) |
-| 3.    | [ICPC]  | International Collegiate Programming Contest | "World Finals" | May (-ish)      |
+| Stage | Acronym | Name                                         | a.k.a.       | Date           |
+| ----- | ------- | -------------------------------------------- | ------------ | -------------- |
+| 1.    | [NCPC]  | Nordic Collegiate Programming Contest        | sub-regional | October(-ish)  |
+| 2.    | [NWERC] | Northwestern Europe Regional Contest         | regional     | November(-ish) |
+| 3.    | [ICPC]  | International Collegiate Programming Contest | World Finals | May(-ish)      |
 
 * [NCPC sub-regional rules]
-* [regional rules]
-* [NWERC rules]
+* [NWERC regional rules] / overall [regional rules]
 * [ICPC world finals rules]
 * competitor's [eligibility decision tree](https://drive.google.com/file/d/1Gt0gh7e9ubSZOr1ZpZ3liU1g0__fPzg1/view)
 * First [NCPC], second [NWERC], finalyl [ICPC]:
@@ -76,11 +75,10 @@ giving us 20m to get set.
 
 [problems]: https://2022.nwerc.eu/main/problem-set.pdf
 
-[rules]:          https://icpc.global/regionals/rules
-[regional rules]: https://icpc.global/regionals/rules
+[regional rules]:          https://icpc.global/regionals/rules
+[NCPC sub-regional rules]: https://nordic.icpc.io/ncpc2023/compete#rules
+[NWERC regional rules]:    https://2022.nwerc.eu/rules/
 [ICPC world finals rules]: https://icpc.global/worldfinals/rules
-[NCPC rules]:     https://nordic.icpc.io/ncpc2023/compete#rules
-[NWERC rules]:    https://2022.nwerc.eu/rules/
-[coach]:          https://icpc.global/regionals/rules
+[coach]:                   https://icpc.global/regionals/rules
 
 [Competition format]: https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg
