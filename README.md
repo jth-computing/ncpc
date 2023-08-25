@@ -1,5 +1,5 @@
 Preparing for NCPC and ICPC at JTH
-=========================================
+==================================
 
 This README contains some resources
 for preparing for [NCPC], the Nordic Collegiate Programming Contest, at [JTH]
@@ -16,7 +16,7 @@ including lists of [problems and exercises](#problems-for-practicing).
 * 🎈 team with most problems solved wins
 
 
-### Date and nearest location (NCPC)
+#### Date and nearest location (NCPC)
 
 Saturday, October 7th 2023
 
