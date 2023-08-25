@@ -27,11 +27,11 @@ Saturday, October 7th 2023
 
 ## Rules
 
-| Stage | Acronym | Name                                         | a.k.a.       | Date           |
-| ----- | ------- | -------------------------------------------- | ------------ | -------------- |
-| 1.    | [NCPC]  | Nordic Collegiate Programming Contest        | sub-regional | October(-ish)  |
-| 2.    | [NWERC] | Northwestern Europe Regional Contest         | regional     | November(-ish) |
-| 3.    | [ICPC]  | International Collegiate Programming Contest | World Finals | May(-ish)      |
+| Stage | Acronym | Name                                         | a.k.a.       | Date           | Date                 |
+| ----- | ------- | -------------------------------------------- | ------------ | -------------- | -------------------- |
+| 1.    | [NCPC]  | Nordic Collegiate Programming Contest        | sub-regional | October(-ish)  |       7 October 2023 |
+| 2.    | [NWERC] | Northwestern Europe Regional Contest         | regional     | November(-ish) | 24--26 November 2023 |
+| 3.    | [ICPC]  | International Collegiate Programming Contest | World Finals | May(-ish)      |       May(-ish) 2024 |
 
 * [NCPC sub-regional rules]
 * [NWERC regional rules] / overall [regional rules]
@@ -77,7 +77,7 @@ giving us 20m to get set.
 
 [regional rules]:          https://icpc.global/regionals/rules
 [NCPC sub-regional rules]: https://nordic.icpc.io/ncpc2023/compete#rules
-[NWERC regional rules]:    https://2022.nwerc.eu/rules/
+[NWERC regional rules]:    https://nwerc.eu/rules/
 [ICPC world finals rules]: https://icpc.global/worldfinals/rules
 [coach]:                   https://icpc.global/regionals/rules
 
