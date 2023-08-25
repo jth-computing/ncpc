@@ -27,20 +27,15 @@ Saturday, October 7th 2023
 
 ## Rules
 
-| Stage | Acronym | Name                                         | a.k.a.       | Date           | Date                 |
-| ----- | ------- | -------------------------------------------- | ------------ | -------------- | -------------------- |
-| 1.    | [NCPC]  | Nordic Collegiate Programming Contest        | sub-regional | October(-ish)  |       7 October 2023 |
-| 2.    | [NWERC] | Northwestern Europe Regional Contest         | regional     | November(-ish) | 24--26 November 2023 |
-| 3.    | [ICPC]  | International Collegiate Programming Contest | World Finals | May(-ish)      |       May(-ish) 2024 |
+| Stage | Acronym | Name                                         | a.k.a.       | Date                 | Rules         |
+| ----- | ------- | -------------------------------------------- | ------------ | -------------------- | ------------- |
+| 1.    | [NCPC]  | Nordic Collegiate Programming Contest        | sub-regional |       7 October 2023 | [NCPC rules]  |
+| 2.    | [NWERC] | Northwestern Europe Regional Contest         | regional     | 24--26 November 2023 | [NWERC rules] |
+| 3.    | [ICPC]  | International Collegiate Programming Contest | World Finals |      Around May 2024 | [ICPC rules]  |
 
-* [NCPC sub-regional rules]
-* [NWERC regional rules] / overall [regional rules]
-* [ICPC world finals rules]
+* no internet access
+* some printed material allowed
 * competitor's [eligibility decision tree](https://drive.google.com/file/d/1Gt0gh7e9ubSZOr1ZpZ3liU1g0__fPzg1/view)
-* First [NCPC], second [NWERC], finalyl [ICPC]:
-  Teams first compete in the [NCPC].
-  Classifying teams later compete in the [NWERC].
-  Classifying teams later compete in the [ICPC].
 * [coach]: typically a faculty (lecturer)
            responsible for registering the team and being the
            point-of-contact between competitors and the contest organization
@@ -75,10 +70,10 @@ giving us 20m to get set.
 
 [problems]: https://2022.nwerc.eu/main/problem-set.pdf
 
-[regional rules]:          https://icpc.global/regionals/rules
-[NCPC sub-regional rules]: https://nordic.icpc.io/ncpc2023/compete#rules
-[NWERC regional rules]:    https://nwerc.eu/rules/
-[ICPC world finals rules]: https://icpc.global/worldfinals/rules
-[coach]:                   https://icpc.global/regionals/rules
+[regional rules]: https://icpc.global/regionals/rules
+[NCPC rules]:     https://nordic.icpc.io/ncpc2023/compete#rules
+[NWERC rules]:    https://nwerc.eu/rules/
+[ICPC rules]:     https://icpc.global/worldfinals/rules
+[coach]:          https://icpc.global/regionals/rules
 
 [Competition format]: https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg
