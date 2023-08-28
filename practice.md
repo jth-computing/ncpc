@@ -6,13 +6,14 @@ are the
 (last year).
 Here are the easiest 5 in order of difficulty:
 
-- [C -     Coffee Cup Combo](https://ncpc22.kattis.com/contests/ncpc22/problems/coffeecupcombo)
-- [D -        Disc District](https://ncpc22.kattis.com/contests/ncpc22/problems/discdistrict)
-- [H -         Highest Hill](https://ncpc22.kattis.com/contests/ncpc22/problems/highesthill)
-- [A -          Ace Arbiter](https://ncpc22.kattis.com/contests/ncpc22/problems/acearbiter)
-- [G - Graduation Guarantee](https://ncpc22.kattis.com/contests/ncpc22/problems/graduationguarantee)
+- [C -     Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo)
+- [D -        Disc District](https://open.kattis.com/problems/discdistrict)
+- [H -         Highest Hill](https://open.kattis.com/problems/highesthill)
+- [A -          Ace Arbiter](https://open.kattis.com/problems/acearbiter)
+- [G - Graduation Guarantee](https://open.kattis.com/problems/graduationguarantee)
 
-They are [available for practice at kattis.com](https://ncpc22.kattis.com/contests/ncpc22/problems)
+They are [available for practice at open.kattis.com](https://ncpc22.kattis.com/contests/ncpc22/problems).
+You may need to edit the URL to be `open.kattis.com/problems/<PROBLEMCODE>`.
 
 
 Below are some other problems for practicing
