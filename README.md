@@ -59,7 +59,10 @@ Here are the problem sets from past years:
 
 * no internet access
 * some printed material allowed
-* competitor's [eligibility decision tree](https://drive.google.com/file/d/1Gt0gh7e9ubSZOr1ZpZ3liU1g0__fPzg1/view)
+* competitor's [eligibility decision tree](https://drive.google.com/file/d/1fRCVPJ_atQQYCeNKJ6VQtB8tTr5GJwrn/view)
+               (                    [2023](https://drive.google.com/file/d/1fRCVPJ_atQQYCeNKJ6VQtB8tTr5GJwrn/view)
+			   ,                    [2022](https://drive.google.com/file/d/1Gt0gh7e9ubSZOr1ZpZ3liU1g0__fPzg1/view)
+			   )
 * [coach]: typically a faculty (lecturer)
            responsible for registering the team and being the
            point-of-contact between competitors and the contest organization
