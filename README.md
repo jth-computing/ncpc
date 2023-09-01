@@ -72,6 +72,8 @@ Here are the problem sets from past years:
 
 Saturday, October 7th 2023, 11:00 -- 16:00 CEST (UTC+2) @ Linköpings Universitet
 
+... with an introductory presentation at 10:15.
+
 __By bus:__
 ~~It takes 1h 45m to travel from Jönköping to Linköping by bus.
 At the contest date,
@@ -83,12 +85,26 @@ __By car:__
 It takes 1h 20m to drive from JU to LIU.
 If we leave at 08:30,
 we should arrive at 10:00
-giving us plenty of time to get set.
+giving us a few minutes to get set
+before the kick-off presentation at 10:15.
 If one of the team members has a car,
 we can go by car.
 The coach will pay for the gas/electricity
 and will take care of charging the university
 after the contest.
+
+#### The competition day
+
+| time           | activity                              |
+| -------------- | ------------------------------------- |
+| 10:00          | arrive & find venue                   |
+| 10:15 -- 10:30 | introductory presentation             |
+| 10:30 -- 11:00 | sit & set up computer and environment |
+| 11:00 -- 16:00 | __NCPC 2023__                         |
+
+Food is offered during the competition,
+usually pizza, salads, coffee and biscuits.
+Bringing additional snacks is allowed.
 
 
 ## Gallery
