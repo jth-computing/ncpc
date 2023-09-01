@@ -72,11 +72,25 @@ Here are the problem sets from past years:
 
 Saturday, October 7th 2023, 11:00 -- 16:00 CEST (UTC+2) @ Linköpings Universitet
 
+__By bus:__
+~~
 It takes 1h 45m to travel from Jönköping to Linköping by bus.
 At the contest date,
 there's a bus4you leaving at 08:20 and arriving at 10:05.
 It takes 30m to go from Linköpings station to LU,
 giving us 20m to get set.
+~~
+
+__By car:__
+It takes 1h 20m to drive from JU to LIU.
+If we leave at 08:30,
+we should arrive at 10:00
+giving us plenty of time to get set.
+If one of the team members has a car,
+we can go by car.
+The coach will pay for the gas/electricity
+and will take care of charging the university
+after the contest.
 
 
 ## Gallery
