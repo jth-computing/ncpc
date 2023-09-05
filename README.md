@@ -123,7 +123,7 @@ Bringing additional snacks is allowed.
 [ICPC]: https://icpc.global/
 [JTH]: https://ju.se/om-oss/tekniska-hogskolan.html
 
-[problems]: https://2022.nwerc.eu/main/problem-set.pdf
+[problems]: https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf
 
 [regional rules]: https://icpc.global/regionals/rules
 [NCPC rules]:     https://nordic.icpc.io/ncpc2023/compete#rules
