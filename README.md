@@ -5,7 +5,7 @@ This README contains some resources
 for preparing for [NCPC], the Nordic Collegiate Programming Contest, at [JTH]
 including lists of [problems and exercises](#problems-for-practicing).
 
-The Nordic Collegiate Programming Contest (NCPC) is held every year.
+The [Nordic Collegiate Programming Contest (NCPC)] is held every year.
 [Teams of 3 university students] compete
 solving [≈ 10 programing problems] in 5 hours
 using either [C, Python, Java, C++ or Kotlin].
@@ -125,6 +125,7 @@ Bringing additional snacks is allowed.
 
 
 [NCPC]: https://nordic.icpc.io/
+[The Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
 [NWERC]: https://nwerc.eu/
 [ICPC]: https://icpc.global/
 [JTH]: https://ju.se/om-oss/tekniska-hogskolan.html
