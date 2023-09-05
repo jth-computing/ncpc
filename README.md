@@ -14,12 +14,12 @@ the [team with most solved problems wins].
 
 ### [Competition format]
 
-* 👥 [teams of 3 university students] (college / högskola / ...)
+* 👥 [Teams of 3 university students] (college / högskola / ...)
 * 🚩 [≈ 10 programming problems]
 * ⏱️ 5 hours
-* ⌨️ solutions in: [C, Python, Java, C++ or Kotlin]
+* ⌨️ Solutions in: [C, Python, Java, C++ or Kotlin]
 * 💻 1 computer per team
-* 🎈 the [team with most solved problems wins]
+* 🎈 The [team with most solved problems wins]
 
 
 #### Date and nearest location (NCPC)
