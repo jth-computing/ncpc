@@ -14,12 +14,12 @@ the [team with most solved problems wins].
 
 ### [Competition format]
 
-* 👥 [Teams of 3 university students] (college / högskola / ...)
+* 👥 [teams of 3 university students] (college / högskola / ...)
 * 🚩 [≈ 10 programming problems]
 * ⏱️ 5 hours
-* ⌨️ Solutions in: [C, Python, Java, C++ or Kotlin]
+* ⌨️ solutions in: [C, Python, Java, C++ or Kotlin]
 * 💻 1 computer per team
-* 🎈 The [team with most solved problems wins]
+* 🎈 the [team with most solved problems wins]
 
 
 #### Date and nearest location (NCPC)
@@ -132,7 +132,7 @@ Bringing additional snacks is allowed.
 [≈ 10 programing problems]: https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf
 [team with most solved problems wins]: https://ncpc22.kattis.com/contests/ncpc22/standings
 [C, Python, Java, C++ or Kotlin]: https://docs.icpc.global/worldfinals-programming-environment/
-[teams of 3 university students](https://live.staticflickr.com/7884/32596056617_5dc85ee500_b.jpg)
+[teams of 3 university students]: https://live.staticflickr.com/7884/32596056617_5dc85ee500_b.jpg
 
 [regional rules]: https://icpc.global/regionals/rules
 [NCPC rules]:     https://nordic.icpc.io/ncpc2023/compete#rules
