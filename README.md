@@ -125,7 +125,7 @@ Bringing additional snacks is allowed.
 
 
 [NCPC]: https://nordic.icpc.io/
-[The Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
+[Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
 [NWERC]: https://nwerc.eu/
 [ICPC]: https://icpc.global/
 [JTH]: https://ju.se/om-oss/tekniska-hogskolan.html
