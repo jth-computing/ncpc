@@ -5,15 +5,21 @@ This README contains some resources
 for preparing for [NCPC], the Nordic Collegiate Programming Contest, at [JTH]
 including lists of [problems and exercises](#problems-for-practicing).
 
+The Nordic Collegiate Programming Contest (NCPC) is held every year.
+[Teams of 3 university students] compete
+solving [≈ 10 programing problems] in 5 hours
+using either [C, Python, Java, C++ or Kotlin].
+At the end,
+the [team with most solved problems wins].
 
 ### [Competition format]
 
-* 👥 teams of 3 university students (college / högskola / ...)
-* 🚩 ≈ 10 [problems]
+* 👥 [teams of 3 university students] (college / högskola / ...)
+* 🚩 [≈ 10 programming problems]
 * ⏱️ 5 hours
-* ⌨️ [solutions in: C, Python, Java, C++ or Kotlin](https://docs.icpc.global/worldfinals-programming-environment/)
+* ⌨️ solutions in: [C, Python, Java, C++ or Kotlin]
 * 💻 1 computer per team
-* 🎈 the [team with most solved problems wins](https://ncpc22.kattis.com/contests/ncpc22/standings)
+* 🎈 the [team with most solved problems wins]
 
 
 #### Date and nearest location (NCPC)
@@ -123,7 +129,10 @@ Bringing additional snacks is allowed.
 [ICPC]: https://icpc.global/
 [JTH]: https://ju.se/om-oss/tekniska-hogskolan.html
 
-[problems]: https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf
+[≈ 10 programing problems]: https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf
+[team with most solved problems wins]: https://ncpc22.kattis.com/contests/ncpc22/standings
+[C, Python, Java, C++ or Kotlin]: https://docs.icpc.global/worldfinals-programming-environment/
+[teams of 3 university students](https://live.staticflickr.com/7884/32596056617_5dc85ee500_b.jpg)
 
 [regional rules]: https://icpc.global/regionals/rules
 [NCPC rules]:     https://nordic.icpc.io/ncpc2023/compete#rules
