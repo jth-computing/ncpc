@@ -13,7 +13,7 @@ including lists of [problems and exercises](#problems-for-practicing).
 * ⏱️ 5 hours
 * ⌨️ [solutions in: C, Python, Java, C++ or Kotlin](https://docs.icpc.global/worldfinals-programming-environment/)
 * 💻 1 computer per team
-* 🎈 team with most problems solved wins
+* 🎈 the [team with most solved problems wins](https://ncpc22.kattis.com/contests/ncpc22/standings)
 
 
 #### Date and nearest location (NCPC)
