@@ -7,7 +7,7 @@ including lists of [problems and exercises](#problems-for-practicing).
 
 The [Nordic Collegiate Programming Contest (NCPC)] is held every year.
 Teams of [3 university students] compete
-solving [≈ 10 programing problems] in 5 hours
+solving [≈ 10 programming problems] in 5 hours
 using either [C, Python, Java, C++ or Kotlin].
 At the end,
 the team with [most solved problems] wins.
@@ -130,7 +130,7 @@ Bringing additional snacks is allowed.
 [ICPC]: https://icpc.global/
 [JTH]: https://ju.se/om-oss/tekniska-hogskolan.html
 
-[≈ 10 programing problems]: https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf
+[≈ 10 programming problems]: https://github.com/icpc/ncpc-web/releases/download/ncpc2022-data/ncpc2022problems.pdf
 [most solved problems]: https://ncpc22.kattis.com/contests/ncpc22/standings
 [C, Python, Java, C++ or Kotlin]: https://docs.icpc.global/worldfinals-programming-environment/
 [3 university students]: https://live.staticflickr.com/7884/32596056617_5dc85ee500_b.jpg
