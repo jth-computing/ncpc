@@ -99,6 +99,10 @@ The coach will pay for the gas/electricity
 and will take care of charging the university
 after the contest.
 
+### Some useful links (TODO: organize later)
+
+* https://math.stackexchange.com/questions/2386810/orientation-of-three-points-in-3d-space
+
 #### The competition day
 
 | time           | activity                              |
