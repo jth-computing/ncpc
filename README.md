@@ -105,7 +105,7 @@ after the contest.
 
 #### The competition day
 
-* Schema: https://nordic.icpc.io/ncpc2023/compete#rules
+* Schema: https://lithekod.se/competitions/ncpc/2023/
 
 | time           | activity                              |
 | -------------- | ------------------------------------- |
