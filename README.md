@@ -105,6 +105,8 @@ after the contest.
 
 #### The competition day
 
+* Schema: https://nordic.icpc.io/ncpc2023/compete#rules
+
 | time           | activity                              |
 | -------------- | ------------------------------------- |
 | 10:00          | arrive & find venue                   |
