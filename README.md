@@ -103,20 +103,18 @@ Adrian picks up Yoseph at his home;
 then picks up Rudy and Calle at JU
 down the stairs from service center.
 
-### Some useful links (TODO: organize later)
 
-* https://math.stackexchange.com/questions/2386810/orientation-of-three-points-in-3d-space
+#### [The competition day]
 
-#### The competition day
-
-* Schema: https://lithekod.se/competitions/ncpc/2023/
+[The competition day]: https://lithekod.se/competitions/ncpc/2023/
 
 | time           | activity                              |
 | -------------- | ------------------------------------- |
-| 10:00          | arrive & find venue                   |
-| 10:15 -- 10:30 | introductory presentation             |
-| 10:30 -- 11:00 | sit & set up computer and environment |
+| 09:50 -- 10:00 | arrive & find venue                   |
+| 10:00 -- 10:30 | introductory presentation             |
+| 10:45 -- 11:00 | sit & set up computer and environment |
 | 11:00 -- 16:00 | __NCPC 2023__                         |
+| 13:00          | free lunch                            |
 
 Food is offered during the competition,
 usually pizza, salads, coffee and biscuits.
