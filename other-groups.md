@@ -9,7 +9,6 @@ with links to their official websites.
 ## [Jönköping University (JU)](https://github.com/jth-computing/ncpc)
 
 Participated for the first time in 2023.
-Placed 24th in Sweden.
 
 
 ## Linköpings Universitet (LiU)
