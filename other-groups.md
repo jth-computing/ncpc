@@ -30,3 +30,8 @@ Placed 24th in Sweden.
 ## Karlstads Universitet
 
 * https://www.cs.kau.se/ncpc23/
+
+
+## Chalmers
+
+* [Chalmers Coding Club](https://chalmerscoding.club/): https://chalmerscoding.club/
