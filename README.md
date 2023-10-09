@@ -47,6 +47,7 @@ They are [available for practice at open.kattis.com](https://open.kattis.com/pro
 You may need to edit the URL to be `open.kattis.com/problems/<PROBLEMCODE>`.
 
 Here are the problem sets from past years:
+[NCPC 2023](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data);
 [NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data);
 [NCPC 2021](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_data);
 [NCPC 2020](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202020?order=difficulty_data);
