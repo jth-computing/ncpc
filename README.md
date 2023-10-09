@@ -89,24 +89,32 @@ giving us 20m to get set.~~
 
 __By car:__
 It takes 1h 20m to drive from JU to LIU.
-If we leave at 08:30,
-we should arrive at 10:00
+If we leave at 08:30 from JU,
+we should arrive at 09:50
 giving us a few minutes to get set
-before the kick-off presentation at 10:15.
+before the kick-off presentation at 10:00.
 If one of the team members has a car,
 we can go by car.
 The coach will pay for the gas/electricity
 and will take care of charging the university
 after the contest.
 
-#### The competition day
+Adrian picks up Yoseph at his home;
+then picks up Rudy and Calle at JU
+down the stairs from service center.
+
+
+#### [The competition day]
+
+[The competition day]: https://lithekod.se/competitions/ncpc/2023/
 
 | time           | activity                              |
 | -------------- | ------------------------------------- |
-| 10:00          | arrive & find venue                   |
-| 10:15 -- 10:30 | introductory presentation             |
-| 10:30 -- 11:00 | sit & set up computer and environment |
+| 09:50 -- 10:00 | arrive & find venue                   |
+| 10:00 -- 10:30 | introductory presentation             |
+| 10:45 -- 11:00 | sit & set up computer and environment |
 | 11:00 -- 16:00 | __NCPC 2023__                         |
+| 13:00          | free lunch                            |
 
 Food is offered during the competition,
 usually pizza, salads, coffee and biscuits.
