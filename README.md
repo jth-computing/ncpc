@@ -24,7 +24,7 @@ the team with [most solved problems] wins.
 
 #### Date and nearest location (NCPC)
 
-* ~~Saturday, October 7th 2023~~ (done!)
+* ~~[Saturday, October 7th 2023]~~ [NCPC 2023 results]
 * October 2024
 * 11:00 -- 16:00 CEST (UTC+2)
 * @ Linköpings Universitet
@@ -139,5 +139,7 @@ Bringing additional snacks is allowed.
 [NWERC rules]:    https://nwerc.eu/rules/
 [ICPC rules]:     https://icpc.global/worldfinals/rules
 [coach]:          https://icpc.global/regionals/rules
+
+[NCPC 2023 results]: https://ncpc23.kattis.com/contests/ncpc23/standings?filter=5254
 
 [Competition format]: https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg
