@@ -24,7 +24,7 @@ the team with [most solved problems] wins.
 
 #### Date and nearest location (NCPC)
 
-* ~~[Saturday, October 7th 2023]~~ [NCPC 2023 results]
+* ~~Saturday, October 7th 2023~~ [NCPC 2023 results]
 * October 2024
 * 11:00 -- 16:00 CEST (UTC+2)
 * @ Linköpings Universitet
