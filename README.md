@@ -59,10 +59,9 @@ Here are the problem sets from past years:
 
 ### Practicing for NWERC
 
-[NCPC's problems]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_category
-
-Stick to [NCPC's problems] at first.
-But if you qualify for the NWERC, take a look at the following:
+If you qualify for the NWERC,
+it is time to take a look at NWERC problems from past years.
+Here they are:
 [NWERC 2022];
 [NWERC 2021];
 [NWERC 2020];
