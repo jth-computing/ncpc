@@ -24,7 +24,8 @@ the team with [most solved problems] wins.
 
 #### Date and nearest location (NCPC)
 
-* Saturday, October 7th 2023
+* ~~Saturday, October 7th 2023~~ [NCPC 2023 results]
+* October 2024
 * 11:00 -- 16:00 CEST (UTC+2)
 * @ Linköpings Universitet
 
@@ -33,7 +34,7 @@ the team with [most solved problems] wins.
 
 The best problems for practicing leading up to the competition
 are the
-[problems from NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_category)
+[problems from NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data)
 (last year).
 Here are the easiest 5 in order of difficulty:
 
@@ -43,16 +44,17 @@ Here are the easiest 5 in order of difficulty:
 - [A -          Ace Arbiter](https://open.kattis.com/problems/acearbiter)
 - [G - Graduation Guarantee](https://open.kattis.com/problems/graduationguarantee)
 
-They are [available for practice at open.kattis.com](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_category).
+They are [available for practice at open.kattis.com](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data).
 You may need to edit the URL to be `open.kattis.com/problems/<PROBLEMCODE>`.
 
 Here are the problem sets from past years:
-[NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_category);
-[NCPC 2021](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_category);
-[NCPC 2020](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202020?order=difficulty_category);
-[NCPC 2019](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202019?order=difficulty_category);
-[NCPC 2018](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202018?order=difficulty_category);
-[NCPC 2017](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202017?order=difficulty_category).
+[NCPC 2023](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data);
+[NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data);
+[NCPC 2021](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202021?order=difficulty_data);
+[NCPC 2020](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202020?order=difficulty_data);
+[NCPC 2019](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202019?order=difficulty_data);
+[NCPC 2018](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202018?order=difficulty_data);
+[NCPC 2017](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202017?order=difficulty_data).
 
 
 ### Practicing for NWERC
@@ -104,14 +106,7 @@ A good place to start is the N easiest problems from the (N+1) previous years fo
 
 Saturday, October 7th 2023, 11:00 -- 16:00 CEST (UTC+2) @ Linköpings Universitet
 
-... with an introductory presentation at 10:15.
-
-__By bus:__
-~~It takes 1h 45m to travel from Jönköping to Linköping by bus.
-At the contest date,
-there's a bus4you leaving at 08:20 and arriving at 10:05.
-It takes 30m to go from Linköpings station to LU,
-giving us 20m to get set.~~
+... with an introductory presentation at 10:00.
 
 __By car:__
 It takes 1h 20m to drive from JU to LIU.
@@ -124,10 +119,6 @@ we can go by car.
 The coach will pay for the gas/electricity
 and will take care of charging the university
 after the contest.
-
-Adrian picks up Yoseph at his home;
-then picks up Rudy and Calle at JU
-down the stairs from service center.
 
 
 #### [The competition day]
@@ -174,5 +165,7 @@ Bringing additional snacks is allowed.
 [NWERC rules]:    https://nwerc.eu/rules/
 [ICPC rules]:     https://icpc.global/worldfinals/rules
 [coach]:          https://icpc.global/regionals/rules
+
+[NCPC 2023 results]: https://ncpc23.kattis.com/contests/ncpc23/standings?filter=5254
 
 [Competition format]: https://live.staticflickr.com/1526/26113291873_9208648a69_b.jpg
