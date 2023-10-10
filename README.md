@@ -55,6 +55,32 @@ Here are the problem sets from past years:
 [NCPC 2017](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202017?order=difficulty_category).
 
 
+### Practicing for NWERC
+
+[NCPC's problems]: https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_category)
+
+Stick to [NCPC's problems] at first.
+But if you qualify for the NWERC, take a look at the following:
+[NWERC 2022];
+[NWERC 2021];
+[NWERC 2020];
+[NWERC 2019];
+[NWERC 2018];
+[NWERC 2017].
+
+A good place to start is the N easiest problems from the (N+1) previous years for N = {1, 2, 3, ...}.  For N=1:
+
+* [2022 B - Bottle Flip](https://open.kattis.com/problems/bottleflip)
+* [2021 K - Knitpicking](https://open.kattis.com/problems/knitpicking)
+
+[NWERC 2022]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202022?order=difficulty_data
+[NWERC 2021]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202021?order=difficulty_data
+[NWERC 2020]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202020?order=difficulty_data
+[NWERC 2019]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202019?order=difficulty_data
+[NWERC 2018]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202018?order=difficulty_data
+[NWERC 2017]: https://open.kattis.com/problem-sources/Northwestern%20Europe%20Regional%20Contest%20(NWERC)%202017?order=difficulty_data
+
+
 ## Rules
 
 | Stage | Acronym | Name                                         | a.k.a.       | Date                 | Rules         |
