@@ -26,7 +26,7 @@ This intro uses Haskell and is presented as a literate Haskell file.
 Some (basic) features of Haskell were not used to protect the innocent!
 (Notably parametric polymorphism, points are monomorphic here.)
 
-``` {.haskell .literate}
+```hs
 import Data.Function (on)
 import Data.List hiding (intersect)
 import Data.Tuple (swap)
@@ -35,19 +35,19 @@ import Test.LeanCheck
 import Test.LeanCheck.Utils
 ```
 
-``` {.haskell .literate}
+```hs
 minimumOn :: Ord b => (a -> b) -> [a] -> a
 minimumOn f  =  minimumBy (compare `on` f)
 ```
 
-``` {.haskell .literate}
+```hs
 maximumOn :: Ord b => (a -> b) -> [a] -> a
 maximumOn f  =  maximumBy (compare `on` f)
 ```
 
 Here is an example /O(n log n)/ sorting function implemented in Haskell.
 
-``` {.haskell .literate}
+```hs
 usort :: Ord a => [a] -> [a]
 usort []  =  []
 usort (x:xs)  =  usort [y | y <- xs, y < x]
@@ -59,7 +59,7 @@ usort (x:xs)  =  usort [y | y <- xs, y < x]
 
 Here is a point in the Cartesian plane:
 
-``` {.haskell .literate}
+```hs
 type N  =  Int
 type Point  =  (N, N)
 ```
@@ -68,27 +68,27 @@ type Point  =  (N, N)
 
 -   TODO: Kattis distance between points
 
-``` {.haskell .literate}
+```hs
 sqDistance :: Point -> Point -> N
 sqDistance (x0,y0) (x1,y1)  =  (x1-x0)^2 + (y1-y0)^2
 ```
 
-``` {.haskell .literate}
+```hs
 compareDistanceFrom :: Point -> Point -> Point -> Ordering
 compareDistanceFrom p0  =  compare `on` sqDistance p0
 ```
 
-``` {.haskell .literate}
+```hs
 minimumOnDistanceFrom :: Point -> [Point] -> Point
 minimumOnDistanceFrom  =  minimumBy . compareDistanceFrom
 ```
 
-``` {.haskell .literate}
+```hs
 maximumOnDistanceFrom :: Point -> [Point] -> Point
 maximumOnDistanceFrom  =  maximumBy . compareDistanceFrom
 ```
 
-``` {.haskell .literate}
+```hs
 sortOnDistanceFrom :: Point -> [Point] -> [Point]
 sortOnDistanceFrom p0  =  sortOn (sqDistance p0)
 ```
@@ -97,14 +97,14 @@ sortOnDistanceFrom p0  =  sortOn (sqDistance p0)
 
 Here is a rectangle whose sides are parallel to the axes:
 
-``` {.haskell .literate}
+```hs
 type Rectangle  =  (Point, N, N) -- origin, width and height
 ```
 
 Given a point and such a rectangle, can you define a function that
 checks whether this point is inside this rectangle?
 
-``` {.haskell .literate}
+```hs
 onRectangle :: Point -> Rectangle -> Bool
 onRectangle (x,y) ((x0,y0),w,h)  =  x0 <= x && x <= x0 + w
                                  && y0 <= y && y <= y0 + h
@@ -115,7 +115,7 @@ onRectangle (x,y) ((x0,y0),w,h)  =  x0 <= x && x <= x0 + w
 Here is a triangle represented as a trio of arbitrary points in the
 plane:
 
-``` {.haskell .literate}
+```hs
 type Triangle  =  (Point, Point, Point)
 ```
 
@@ -150,13 +150,13 @@ If the determinant is positive, they are placed counter-clockwise. If
 the determinant is negative, they are placed clockwise. If the
 determinant is zero, they are in a line.
 
-``` {.haskell .literate}
+```hs
 orientation :: Point -> Point -> Point -> N
 orientation (x0,y0) (x1,y1) (x2,y2)  =  x0*y1 + x1*y2 + x2*y0
                                      -  x0*y2 - x1*y0 - x2*y1
 ```
 
-``` {.haskell .literate}
+```hs
 orientation' :: Point -> Point -> Point -> N
 orientation' p0 p1 p2  =  signum (orientation p0 p1 p2)
 ```
@@ -167,7 +167,7 @@ This function is the **heart** of computational geometry.
 
 Now, how to check if a point is inside a triangle?
 
-``` {.haskell .literate}
+```hs
 onTriangle :: Point -> Triangle -> Bool
 onTriangle p (p0,p1,p2)  =  all (<= 0) ls
                          || all (>= 0) ls
@@ -180,11 +180,11 @@ onTriangle p (p0,p1,p2)  =  all (<= 0) ls
 
 The above method generalizes to any convex polygon.
 
-``` {.haskell .literate}
+```hs
 type Polygon  =  [Point]
 ```
 
-``` {.haskell .literate}
+```hs
 onCPoly :: Point -> Polygon -> Bool
 onCPoly p ps  =  all (<= 0) ls
               || all (>= 0) ls
@@ -198,13 +198,13 @@ onCPoly p ps  =  all (<= 0) ls
 -   Problem:
     [segmentdistance](https://open.kattis.com/problems/segmentdistance)
 
-``` {.haskell .literate}
+```hs
 type Segment  =  (Point, Point)
 ```
 
 Can you implement a function that checks whether two segments cross?
 
-``` {.haskell .literate}
+```hs
 intersect :: Segment -> Segment -> Bool
 intersect (p0,p1) (q0,q1)  =
   0 `between` (orientation p0 p1 q0, orientation p0 p1 q1) &&
@@ -226,7 +226,7 @@ TODO: ???
 Using the orientation check, it is possible to order points
 (counter-)clockwise.
 
-``` {.haskell .literate}
+```hs
 compareCCWFrom :: Point -> Point -> Point -> Ordering
 compareCCWFrom p0 p1 p2  =  0 `compare` orientation p0 p1 p2
 ```
@@ -238,7 +238,7 @@ origin.
 However, it does establish an order relation in any set of points
 located in an arc of less than 180 from the origin, excluding it.
 
-``` {.haskell .literate}
+```hs
 sortCCWFrom :: Point -> [Point] -> [Point]
 sortCCWFrom p0  =  sortBy
                 $  compareCCWFrom p0 <> (compare `on` sqDistance p0)
@@ -255,7 +255,7 @@ Can you now devise a convex hull algorithm?
 
 /O(n\^4)/
 
-``` {.haskell .literate}
+```hs
 veryNaiveConvexHull :: [Point] -> Polygon
 veryNaiveConvexHull ps'  =  sortCCWFrom (minimum ps)
   [ p | triangles /= []
@@ -274,7 +274,7 @@ veryNaiveConvexHull ps'  =  sortCCWFrom (minimum ps)
 
 /O(n\^2)/
 
-``` {.haskell .literate}
+```hs
 naiveConvexHull :: [Point] -> [Point]
 naiveConvexHull []   =  []
 naiveConvexHull ps'  =  o : from o
@@ -297,7 +297,7 @@ set of points?
 The following assumes that the first point (x,y) in the polygon contains
 the least value of x then y.
 
-``` {.haskell .literate}
+```hs
 starConvexHull :: Polygon -> Polygon
 starConvexHull (p:q:r:ps)
   | orientation' p q r > 0  =  p : starConvexHull (q:r:ps)
@@ -305,7 +305,7 @@ starConvexHull (p:q:r:ps)
 starConvexHull ps  =  ps
 ```
 
-``` {.haskell .literate}
+```hs
 toStar :: [Point] -> Polygon
 toStar []   =  []
 toStar ps'  =  o : sortCCWFrom o ps
@@ -313,7 +313,7 @@ toStar ps'  =  o : sortCCWFrom o ps
   (o:ps)  =  usort ps'
 ```
 
-``` {.haskell .literate}
+```hs
 convexHull :: [Point] -> Polygon
 convexHull  =  starConvexHull . toStar
 ```
@@ -339,7 +339,7 @@ Here is a better representation:
 
 In Haskell:
 
-``` {.haskell .literate}
+```hs
 type Line  =  (N,N,N)  -- a, b, c in ax + by + c = 0
 ```
 
@@ -355,14 +355,14 @@ Is the same as:
 
 Consider the following function:
 
-``` {.haskell .literate}
+```hs
 pointLine :: Point -> Line -> N
 pointLine (x,y) (a,b,c)  =  a*x + b*y + c
 ```
 
 When its result is 0, that means the point (x,y) is part of the line:
 
-``` {.haskell .literate}
+```hs
 onLine :: Point -> Line -> Bool
 onLine p r  =  pointLine p r == 0 
 ```
@@ -371,7 +371,7 @@ The signal of the `pointLine` function indicates which "side" of the
 line a point is in. So one can use it to check if two points are on
 opposite sides:
 
-``` {.haskell .literate}
+```hs
 oppositeSidesOf :: Line -> Point -> Point -> Bool
 oppositeSidesOf r p q  =  signum (pointLine p r) /= signum (pointLine q r)
 ```
@@ -380,7 +380,7 @@ oppositeSidesOf r p q  =  signum (pointLine p r) /= signum (pointLine q r)
 
 We can compute a line formed by two points with:
 
-``` {.haskell .literate}
+```hs
 lineFromPoints :: Point -> Point -> Line
 lineFromPoints (x0,y0) (x1,y1)  =  (y1-y0, x0-x1, x1*y0-x0*y1)
 ```
@@ -392,7 +392,7 @@ the above function with a repeated point one gets `(0,0,0)` as a line.
 
 We can compute the point of intersection of two lines with:
 
-``` {.haskell .literate}
+```hs
 pointFromLines :: Line -> Line -> Point
 pointFromLines (a0,b0,c0) (a1,b1,c1)  =  (x / w, y / w)
   where
@@ -423,22 +423,22 @@ pointFromLines (a0,b0,c0) (a1,b1,c1)  =  (x / w, y / w)
 
 ## Tests
 
-``` {.haskell .literate}
+```hs
 pointsA :: [Point]
 pointsA  =  [(1,1), (2,2), (4,4), (3,2), (2,3), (3,5)]
 ```
 
-``` {.haskell .literate}
+```hs
 pointsB :: [Point]
 pointsB  =  pointsA ++ [(-1,5), (-1,2), (-2,0), (-2,-2), (0,-1), (2,-1), (-1,2), (3,-2)]
 ```
 
-``` {.haskell .literate}
+```hs
 isDegenerate :: Polygon -> Bool
 isDegenerate ps  =  length ps < 3
 ```
 
-``` {.haskell .literate}
+```hs
 convexHull' :: [Point] -> [Point]
 convexHull' ps | isDegenerate poly  =  []
                | otherwise          =  poly
@@ -446,19 +446,19 @@ convexHull' ps | isDegenerate poly  =  []
   poly  =  convexHull ps
 ```
 
-``` {.haskell .literate}
+```hs
 main :: IO ()
 main  =  runTests
 ```
 
-``` {.haskell .literate}
+```hs
 runTests :: IO ()
 runTests  =  case elemIndices False tests of
   [] -> putStrLn "Tests passed!"
   is -> putStrLn ("Failed tests:" ++ show is) >> exitFailure
 ```
 
-``` {.haskell .literate}
+```hs
  tests :: [Bool]
  tests  =
    [ True
