@@ -56,7 +56,18 @@ Here are the problem sets from past years:
 [NCPC 2017](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202017?order=difficulty_data).
 
 
+## Want to participate?
+
+* Contact Rudy Matela ([rudy.matela@ju.se](mailto:rudy.matela@ju.se))
+  or some other JTH faculty member to find a "[team coach]" for you.
+* Start practicing
+* Register when the time comes
+* Join us in the competition at Linköpings Universitet.
+
+
 ## Rules
+
+The competition happens in four stages, the first one being [NCPC].
 
 | Stage | Acronym | Name                                         | a.k.a.        | Date                 | Rules            |
 | ----- | ------- | -------------------------------------------- | ------------- | -------------------- | ---------------- |
@@ -71,9 +82,9 @@ Here are the problem sets from past years:
                (                    [2023](https://drive.google.com/file/d/1fRCVPJ_atQQYCeNKJ6VQtB8tTr5GJwrn/view)
 			   ,                    [2022](https://drive.google.com/file/d/1Gt0gh7e9ubSZOr1ZpZ3liU1g0__fPzg1/view)
 			   )
-* [coach]: typically a faculty (lecturer)
-           responsible for registering the team and being the
-           point-of-contact between competitors and the contest organization
+* [team coach]: typically a faculty (lecturer)
+                responsible for registering the team and being the
+                point-of-contact between competitors and the contest organization
 
 
 ### Traveling
@@ -90,7 +101,7 @@ giving us a few minutes to get set
 before the kick-off presentation at 10:00.
 If one of the team members has a car,
 we can go by car.
-The coach will pay for the gas/electricity
+The team coach will pay for the gas/electricity
 and will take care of charging the university
 after the contest.
 
@@ -140,7 +151,7 @@ Bringing additional snacks is allowed.
 [NWERC rules]:    https://nwerc.eu/rules/
 [ICPC EUC rules]: https://euc.icpc.global/home-2024/about/
 [ICPC rules]:     https://icpc.global/worldfinals/rules
-[coach]:          https://icpc.global/regionals/rules
+[team coach]:     https://icpc.global/regionals/rules
 
 [NCPC 2023 results]: https://ncpc23.kattis.com/contests/ncpc23/standings?filter=5254
 
