@@ -58,11 +58,12 @@ Here are the problem sets from past years:
 
 ## Rules
 
-| Stage | Acronym | Name                                         | a.k.a.       | Date                 | Rules         |
-| ----- | ------- | -------------------------------------------- | ------------ | -------------------- | ------------- |
-| 1.    | [NCPC]  | Nordic Collegiate Programming Contest        | sub-regional |       7 October 2023 | [NCPC rules]  |
-| 2.    | [NWERC] | Northwestern Europe Regional Contest         | regional     | 24--26 November 2023 | [NWERC rules] |
-| 3.    | [ICPC]  | International Collegiate Programming Contest | World Finals |      Around May 2024 | [ICPC rules]  |
+| Stage | Acronym | Name                                         | a.k.a.        | Date                 | Rules            |
+| ----- | ------- | -------------------------------------------- | ------------- | -------------------- | ---------------- |
+| 1. | [NCPC]     | Nordic Collegiate Programming Contest        | sub-regional  |       7 October 2023 | [NCPC rules]     |
+| 2. | [NWERC]    | Northwestern Europe Regional Contest         | regional      | 24--26 November 2023 | [NWERC rules]    |
+| 3. | [ICPC EUC] | ICPC European Championship                   | Europe Finals | 22--24 March    2024 | [ICPC EUC rules] |
+| 4. | [ICPC]     | International Collegiate Programming Contest | World Finals  |      Around May 2024 | [ICPC rules]     |
 
 * no internet access
 * some printed material allowed
@@ -125,6 +126,7 @@ Bringing additional snacks is allowed.
 [NCPC]: https://nordic.icpc.io/
 [Nordic Collegiate Programming Contest (NCPC)]: https://nordic.icpc.io/
 [NWERC]: https://nwerc.eu/
+[ICPC EUC]: https://euc.icpc.global/
 [ICPC]: https://icpc.global/
 [JTH]: https://ju.se/om-oss/tekniska-hogskolan.html
 
@@ -136,6 +138,7 @@ Bringing additional snacks is allowed.
 [regional rules]: https://icpc.global/regionals/rules
 [NCPC rules]:     https://nordic.icpc.io/ncpc2023/compete#rules
 [NWERC rules]:    https://nwerc.eu/rules/
+[ICPC EUC rules]: https://euc.icpc.global/home-2024/about/
 [ICPC rules]:     https://icpc.global/worldfinals/rules
 [coach]:          https://icpc.global/regionals/rules
 
