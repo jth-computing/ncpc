@@ -33,19 +33,18 @@ the team with [most solved problems] wins.
 ## Problems for Practicing
 
 The best problems for practicing leading up to the competition
-are the
-[problems from NCPC 2022](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data)
-(last year).
-Here are the easiest 5 in order of difficulty:
+are the ones from past years.
+Here are a few interesting ones from NCPC 2022 and 2023:
 
-- [C -     Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo)
-- [D -        Disc District](https://open.kattis.com/problems/discdistrict)
-- [H -         Highest Hill](https://open.kattis.com/problems/highesthill)
-- [A -          Ace Arbiter](https://open.kattis.com/problems/acearbiter)
-- [G - Graduation Guarantee](https://open.kattis.com/problems/graduationguarantee)
+- [2022 C -     Coffee Cup Combo](https://open.kattis.com/problems/coffeecupcombo)
+- [2022 H -         Highest Hill](https://open.kattis.com/problems/highesthill)
+- [2022 G - Graduation Guarantee](https://open.kattis.com/problems/graduationguarantee)
+- [2023 C -    Converting Romans](https://open.kattis.com/problems/convertingromans)
+- [2023 D -             Die Hard](https://open.kattis.com/problems/diehard)
+- [2023 H -     Heroes of Velmar](https://open.kattis.com/problems/heroesofvelmar)
 
 They are [available for practice at open.kattis.com](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202022?order=difficulty_data).
-You may need to edit the URL to be `open.kattis.com/problems/<PROBLEMCODE>`.
+You can create an account and submit your solutions there.
 
 Here are the problem sets from past years:
 [NCPC 2023](https://open.kattis.com/problem-sources/Nordic%20Collegiate%20Programming%20Contest%20%28NCPC%29%202023?order=difficulty_data);
